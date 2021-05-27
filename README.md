@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dlozlami
+- 👋 Hi, I’m Dlozi Mthethwa.
 - 👀 I’m interested in UX Design
 - 🌱 I’m currently learning data science, machine learning and storytelling
 - 💞️ I’m looking to collaborate on User research projects
