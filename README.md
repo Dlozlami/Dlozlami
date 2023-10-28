@@ -1,6 +1,7 @@
 <h1 align="left">Hi 👋, I'm Dlozi Mthethwa</h1>
 <h3 align="left">A passionate Mobile App and Web Developer</h3>
 
+
 - 📫 How to reach me **dlozi.mthethwa@gmail.com**
 
 - 📄 Know about my experiences [https://profile.indeed.com/p/dlozim-ysc1f5u](https://profile.indeed.com/p/dlozim-ysc1f5u)
@@ -9,6 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/https://twitter.com/uxdlozi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/uxdlozi" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/dlozimthethwa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dlozimthethwa/" height="30" width="40" /></a>
 </p>
 
