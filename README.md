@@ -6,7 +6,7 @@
 
 - 📄 Know about my experiences [https://profile.indeed.com/p/dlozim-ysc1f5u](https://profile.indeed.com/p/dlozim-ysc1f5u)
 
-- 🌱 Learning more about Fullstack Software Engineer, Systems Design, Data Science and Artificial Intelligence.
+- 🌱 Learning more about Systems Design, Data Science and Artificial Intelligence.
 
 - ⚡ Fun fact **The Universe is mental.**
 
