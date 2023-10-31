@@ -1,12 +1,12 @@
 <h1 align="left">Hi 👋, I'm Dlozi Mthethwa</h1>
-<h3 align="left">A passionate Mobile App and Web Developer</h3>
+<h3 align="left">A passionate Digital Solutions Developer</h3>
 
 
 - 📫 How to reach me **dlozi.mthethwa@gmail.com**
 
 - 📄 Know about my experiences [https://profile.indeed.com/p/dlozim-ysc1f5u](https://profile.indeed.com/p/dlozim-ysc1f5u)
 
-- 🌱 Learning more about Fullstack Software Engineer, Systems Design and Artificial Intelligence.
+- 🌱 Learning more about Fullstack Software Engineer, Systems Design, Data Science and Artificial Intelligence.
 
 - ⚡ Fun fact **The Universe is mental.**
 
