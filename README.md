@@ -11,15 +11,16 @@
 - ⚡ Fun fact **The Universe is mental.**
 
 <h3 align="left">🛠 Tech Stack</h3>
+
 - 💻   Python
 
 - 🌐   HTML | CSS | JavaScript | Bootstrap | Node.js | Reactjs
   
-- 🛢   MySQL | MongoDB
+- 🛢   MySQL | MongoDB 
   
 - 🔧  Git
   
-- 🖥  UI / UX | Figma | Canva |
+- 🖥  UI / UX | Figma | Canva 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
