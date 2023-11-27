@@ -20,7 +20,7 @@
   
 - 🔧  Git
   
-- 🖥  UI / UX | Figma | Canva 
+- 🖥  UI / UX | Figma | Photoshop | InDesign 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
